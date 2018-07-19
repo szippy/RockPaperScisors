@@ -1,3 +1,6 @@
+#7/16/18
+#play rock paper scisors against the AI or a person
+
 import sys
 import random
 import getpass
